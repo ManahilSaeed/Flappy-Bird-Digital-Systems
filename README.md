@@ -10,3 +10,5 @@ Pillar generation
 Bird movement
 Collision detection
 Score tracking
+
+The file "ECE241 Flappy Bird Project.pdf" gives a breakdown of how the project was developed on the De1-SoC board.
